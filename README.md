@@ -1,5 +1,7 @@
 # Testes End to End - Ebac Shop
-### Exercício para os alunos de Qualidade de software da EBAC 
+### Exercício para os alunos de Qualidade de software da EBAC
+
+Projeto clonado por llpupp do github EBAC-QE
 
 Ebac shop: http://lojaebac.ebaconline.art.br/
 
