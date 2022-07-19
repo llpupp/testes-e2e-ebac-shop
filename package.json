@@ -1,7 +1,7 @@
 {
   "name": "teste-ebac-ui",
   "version": "1.0.0",
-  "description": "",
+  "description": "Projeto clonado por llpupp do github EBAC-QE",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -17,14 +17,13 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": ""
-  },
   "homepage": "",
   "devDependencies": {
-    "cypress": "^8.2.0"
+    "cypress": "^10.3.0"
   },
   "dependencies": {
-    "faker": "^5.5.3"
+    "10": "^0.0.1",
+    "faker": "^5.5.3",
+    "faker-br": "^0.4.1"
   }
 }

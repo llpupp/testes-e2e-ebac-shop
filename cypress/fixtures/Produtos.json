@@ -1,0 +1,31 @@
+[
+    {
+        "nome": "Aero Daily Fitness Tee",
+        "tamanho": "S",
+        "cor": "Yellow",
+        "quantidade": 1
+    },
+    {
+        "nome": "Aether Gym Pant",
+        "tamanho": 33,
+        "cor": "Green",
+        "quantidade": 1
+
+    },
+    {
+        "nome": "Arcadio Gym Short",
+        "tamanho": 36,
+        "cor": "Blue",
+        "quantidade": 1
+
+
+    },
+    {
+        "nome": "Ajax Full-Zip Sweatshirt",
+        "tamanho": "XL",
+        "cor": "Red",
+        "quantidade": 1
+
+
+    }
+]
