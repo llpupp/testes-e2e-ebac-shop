@@ -5,10 +5,10 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "cy:open": "npx cypress open",
-    "cy:run": "npx cypress run",
+    "cy:open": "npx cypress open --browser edge",
+    "cy:run": "npx cypress run --browser edge",
     "cy:dashboard": "",
-    "cy:report": ""
+    "cy:report": "cypress run --record --key 40ef3d8b-9575-4371-822f-0cd94597457a"
   },
   "repository": {
     "type": "git",
