@@ -99,7 +99,7 @@ describe('Exercicio - Testes End-to-end - Fluxo de pedido', () => {
 
         cy.get('#terms').check()
         cy.get('#place_order').click({ force: true })
-        cy.get('.woocommerce-notice').should('contain', 'Obrigado. Seu pedido foi recebido.')
+        cy.get('.woocommerce-notice', {timeout:10000}).should ('be.visible').should('contain', 'Obrigado. Seu pedido foi recebido.')
     });
 
 
