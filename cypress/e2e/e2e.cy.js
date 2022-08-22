@@ -48,7 +48,7 @@ describe('Exercicio - Testes End-to-end - Fluxo de pedido', () => {
             dadosProdutos[0].quantidade
         )
         
-        cy.get('.woocommerce-message').should('contain', '“Aero Daily Fitness Tee” foi adicionado no seu carrinho.')
+        cy.get('.woocommerce-message').should('contain', '“Apollo Running Short” foi adicionado no seu carrinho.')
 
         cy.get('#primary-menu > .menu-item-629 > a').click()
         

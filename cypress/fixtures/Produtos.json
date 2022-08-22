@@ -1,8 +1,8 @@
 [
     {
-        "nome": "Aero Daily Fitness Tee",
-        "tamanho": "XL",
-        "cor": "Yellow",
+        "nome": "Apollo Running Short",
+        "tamanho": "34",
+        "cor": "Black",
         "quantidade": 1
     },
     {
@@ -26,6 +26,20 @@
         "cor": "Red",
         "quantidade": 1
 
+
+    },
+    {
+        "nome": "Ariel Roll Sleeve Sweatshirt",
+        "tamanho": "XS",
+        "cor": "Green",
+        "quantidade": 1  
+
+    },
+    {
+        "nome": "Argus All-Wheather Tank",
+        "tamanho": "XS",
+        "cor": "Grey",
+        "quantidade": 1  
 
     }
 ]
